@@ -8,7 +8,7 @@ def binaryAdder(num1, num2):
     carry = 0
     i = 7
     print(num1)
-    print("-")
+    print("+")
     print(num2)
     while (i>0):
 
